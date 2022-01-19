@@ -1,0 +1,4 @@
+#Wed Jan 19 21:00:50 IRST 2022
+base.0=D\:\\Workspace\\Flutter\\Worksapce\\MoviesCollection\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
